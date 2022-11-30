@@ -11,9 +11,12 @@ GoodCore is a coreset selection framework over incomplete data for data-effectiv
 
 ## Requiements
 
-scikit-learn
-numpy
-pandas
+scikit-learn == 1.0.2
+
+numpy == 1.19.2
+
+pandas == 1.4.2
+
 random
 
 
