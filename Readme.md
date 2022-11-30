@@ -9,6 +9,12 @@ GoodCore is a coreset selection framework over incomplete data for data-effectiv
 
 - `python logistic.py --data Example_clean --method sgd -s 0.0002`
 
+## Requiements
+
+scikit-learn
+numpy
+pandas
+random
 
 
 ## License
