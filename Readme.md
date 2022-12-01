@@ -45,6 +45,8 @@ Before running the code, you have to configure some parameters or use the defaul
 * K: the size of the coreset  
 * b: the size of the batch that asks the human to impute per human iteration
 
+## Imputation
+If you involve a human to impute the missing value, you can interactive through the command line. You can add other automatic imputation methods as needed.
 
 ## Running Code
 - `python logistic.py --data Example --method sgd -s 0.0002`
