@@ -1,7 +1,4 @@
-<div align=center>
-# GoodCore
-<img src="./Img/overview.png" width="50">
-</div>
+# GoodCore <img src="./Img/logo.jpg">
 
 GoodCore is a coreset selection framework over incomplete data for data-effective and data-efficient machine learning. It can select an expected optimal coreset through gradient approximation without training ML models.
 
