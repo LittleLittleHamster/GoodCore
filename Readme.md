@@ -26,7 +26,6 @@ the coreset within the first loop, the number of possible worlds can be signific
 * `pandas == 1.4.2`
 * `random`
 * `Datawig`
-* `scikit-learn`
 
 
 # Quick Start
