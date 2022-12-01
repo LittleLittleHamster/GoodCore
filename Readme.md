@@ -3,14 +3,14 @@
 GoodCore is a coreset selection framework over incomplete data for data-effective and data-efficient machine learning. It can select an expected optimal coreset through gradient approximation without training ML models.
 
 <div align=center>
-<img src="./Img/overview.jpg" width="700">
+<img src="./Img/overview.png" width="700">
 </div>
 
 GoodCore uses a greedy framework with three loops to solve the problem. At a high level, the greedy strategy adds one tuple with the largest “utility” to the coreset iteratively, which can be considered as the first loop. In each iteration, we have to iterate tuples in D to select the one with the largest utility, which is the second loop. Naturally, we have to compute the utility of each tuple, where all tuples in D have to be considered, leading to the third loop. 
 
 
 <div align=center>
-<img src="./Img/pw.jpg" width="700">
+<img src="./Img/pw.png" width="700">
 </div>
 
 
